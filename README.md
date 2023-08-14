@@ -19,4 +19,12 @@ Read, Post & Explore the awesome blogs on different categories that you love.
 
 - Knowledge Sharing : Blogging allows you to share your expertise and knowledge on specific topics. By researching and writing about subjects you're passionate about, you contribute to the collective learning of your readers and help educate and inform them.
  
-                    We hope you can experience great with this Story Blog...
+             We hope you can experience great with this Story Blog....
+
+Tools:
+
+1.MongoDB - Atlas, JWT authentication, NoSQL database, Device Sync
+
+2.Firebase - Google Authentication, Storage for storing images, Analytics
+
+3.Languages - Kotlin(jetpack compose)
